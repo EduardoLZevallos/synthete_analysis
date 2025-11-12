@@ -39,3 +39,6 @@ METRICS_FOR_ANALYSIS = {
     "GGXWDG_NGDP",  # General government gross debt
     "d",  # Gross public debt, percent of GDP
 }
+
+PB_METRIC = 'pb'
+GDP_PER_CAPITA_METRIC = "PPPPC"
